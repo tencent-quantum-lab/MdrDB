@@ -2,7 +2,7 @@
 
 MdrDB is a database of information related to changes in protein-ligand affinity caused by mutations in protein structure. It brings together wild type protein-ligand complexes, mutant protein-ligand complexes, binding affinity changes upon mutation (ΔΔG), and biochemical features of complexes to advance our understanding of mutation-induced drug resistance, the development of combination therapies, and the discovery of novel chemicals.
 
-![workflow_0624](/Users/yangziyi/Downloads/workflow_0624.png)
+![workflow_0624](https://github.com/tencent-quantum-lab/MdrDB/blob/main/figure/workflow_0624.png)
 
 
 
@@ -33,7 +33,7 @@ You can try the code and obtain the results from this repo:
 
 
 
-![Fig4_barplot](/Users/yangziyi/Downloads/Fig4_barplot.png)
+![Fig4_barplot](https://github.com/tencent-quantum-lab/MdrDB/blob/main/figure/Fig4_barplot.png)
 
 
 
