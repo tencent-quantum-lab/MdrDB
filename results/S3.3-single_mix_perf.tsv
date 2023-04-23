@@ -1,0 +1,11 @@
+Methods	RMSE	MAE	R2	Pearson
+MLP	17.754	12.726	-184.727	0.137
+DecisionTree	2.8	2.146	-3.62	-0.196
+Bagging	1.994	1.425	-1.343	-0.112
+RandomForest	1.99	1.441	-1.333	-0.086
+SVR	1.811	1.325	-0.932	-0.179
+GradientBoost	1.654	1.164	-0.611	0.095
+Lasso	1.641	1.232	-0.587	0.036
+ElasticNet	1.62	1.227	-0.546	0.039
+ExtraTrees	1.609	1.082	-0.525	0.136
+AdaBoost	1.375	0.947	-0.113	0.261
