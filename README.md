@@ -25,7 +25,10 @@ You can try the code and obtain the results from this repo:
 - ***Data:*** contains meta data and processed biochemical features from MdrDB\_CoreSet.
 
 - ***Demo:*** contains the source code of multiple machine learning methods on different training datasets: Platinum (no tyrosine kinase), Platinum, and MdrDB\_CoreSet (Single substitution), and then test on the TKI dataset to predict tyrosine kinase inhibitors affinity change values.
+
 - ***Results:*** contains prediction results and plotted figures.
+
+Furthermore, we also provide a comprehensive evaluation of 10 machine learning models in several different scenarios, and provide baseline prediction results on the MdrDB database. It is our hope that this will help further the development of new machine learning algorithms using the MdrDB database and facilitate drug resistance research. The source code is in: `MdrDB_ML_baselines.ipynb`.
 
 
 
