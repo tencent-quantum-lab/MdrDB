@@ -28,6 +28,7 @@ You can try the code and obtain the results from this repo:
 
 - ***Results:*** contains prediction results and plotted figures.
 
+** Update (2023.05.12) **
 Furthermore, we also provide a comprehensive evaluation of 10 machine learning models in several different scenarios, and provide baseline prediction results on the MdrDB database. It is our hope that this will help further the development of new machine learning algorithms using the MdrDB database and facilitate drug resistance research. The source code is available at: `MdrDB_ML_baselines.ipynb`.
 
 
