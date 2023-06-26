@@ -1,4 +1,4 @@
-# MdrDB: Mutation-induced drug resistance DataBase
+# A mutation-induced drug resistance database (MdrDB)
 
 MdrDB is a database of information related to changes in protein-ligand affinity caused by mutations in protein structure. It brings together wild type protein-ligand complexes, mutant protein-ligand complexes, binding affinity changes upon mutation (ΔΔG), and biochemical features of complexes to advance our understanding of mutation-induced drug resistance, the development of combination therapies, and the discovery of novel chemicals.
 
@@ -50,9 +50,11 @@ The source code is available at: `MdrDB_ML_baselines.ipynb`.
 @article{yang2022mdrdb,
   title={MdrDB: Mutation-induced drug resistance DataBase},
   author={Yang, Ziyi and Ye, Zhaofeng and Qiu, Jiezhong and Feng, Rongjun and Li, Danyu and Hsieh, Changyu and Allcock, Jonathan and Zhang, Shengyu},
-  pages={2022--10},
-  journal={bioRxiv},
-  year={2022},
-  publisher={Cold Spring Harbor Laboratory}
+  journal={Communications Chemistry},
+  volume={6},
+  number={1},
+  pages={123},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
 }
 ```
